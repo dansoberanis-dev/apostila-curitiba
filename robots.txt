@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apostila-curitiba.vercel.app/sitemap.xml
